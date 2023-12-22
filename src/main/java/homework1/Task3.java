@@ -42,5 +42,6 @@ public class Task3 {
         GetCoordinatesX(webElement);
 
         GetCoordinatesY(webElement);
+        driver.quit();
     }
 }

@@ -54,7 +54,7 @@ public class Task2 {
     whatIsBiggest(webElement, webElement2, driver);
     whatIsLefter(webElement, webElement2, driver);
 
-
+driver.quit();
     }
 
 
