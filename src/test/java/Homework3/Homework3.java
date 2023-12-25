@@ -63,7 +63,7 @@ public class Homework3 {
         actionsClass.sendKeys(By.name("LastName"), "Dukhovnikova");
         actionsClass.sendKeys(By.name("FirstName"), "Alona");
         Thread.sleep(7000);
-       actionsClass.sendKeys(By.id(" DateOfBirthDay"), "19");
+       actionsClass.sendKeys(By.id("DateOfBirthDay"), "19");
        actionsClass.sendKeys(By.id("DateOfBirthMonth"), "04");
        actionsClass.sendKeys(By.id("DateOfBirthYear"), "1990");
 
